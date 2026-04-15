@@ -1,7 +1,5 @@
 # ⬡ Fortis — Local Encrypted Password Manager
 
-> *Fortis* (latin: "fort") — a minimalist, secure, local-first password manager built with Python.
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Encryption](https://img.shields.io/badge/Encryption-AES--256--GCM-gold?style=flat-square)
