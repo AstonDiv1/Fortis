@@ -96,7 +96,7 @@ fortis/
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **[Python 3.10+](https://python.org)** — core language
 - **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** — modern themed GUI
