@@ -24,12 +24,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Launch the app to see the vault in action — dark theme, gold accents, clean layout.
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites
