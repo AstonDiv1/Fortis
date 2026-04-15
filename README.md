@@ -13,18 +13,18 @@
 
 | Feature | Details |
 |--------|---------|
-| 🔐 **AES-256-GCM encryption** | Industry-standard authenticated encryption |
-| 🔑 **PBKDF2-SHA256 key derivation** | 390,000 iterations — brute-force resistant |
-| 🖥️ **Modern dark UI** | Built with CustomTkinter, no browser needed |
-| 📋 **Auto-clear clipboard** | Password auto-wiped from clipboard after 30s |
-| 🎲 **Password generator** | Configurable length, charset, and strength meter |
-| 🔍 **Real-time search** | Instant filtering across name, username, URL |
-| 💾 **100% local** | Your data never leaves your machine (`.fortis.vault`) |
-| 🚫 **No telemetry** | No analytics, no accounts, no cloud |
+|  **AES-256-GCM encryption** | Industry-standard authenticated encryption |
+|  **PBKDF2-SHA256 key derivation** | 390,000 iterations — brute-force resistant |
+|  **Modern dark UI** | Built with CustomTkinter, no browser needed |
+|  **Auto-clear clipboard** | Password auto-wiped from clipboard after 30s |
+|  **Password generator** | Configurable length, charset, and strength meter |
+|  **Real-time search** | Instant filtering across name, username, URL |
+|  **100% local** | Your data never leaves your machine (`.fortis.vault`) |
+|  **No telemetry** | No analytics, no accounts, no cloud |
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.10+
@@ -46,7 +46,7 @@ python main.py
 
 ---
 
-## 🔒 Security Details
+##  Security Details
 
 ### How your data is protected
 
@@ -80,7 +80,7 @@ Master Password
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fortis/
@@ -105,7 +105,7 @@ fortis/
 
 ---
 
-## 📜 License
+##  License
 
 MIT — free to use, modify, and distribute.
 
